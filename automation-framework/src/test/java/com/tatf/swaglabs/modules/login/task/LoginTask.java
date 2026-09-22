@@ -1,11 +1,11 @@
-package com.tatf.swaglabs.login.task;
+package com.tatf.swaglabs.modules.login.task;
 
 import com.tatf.core.browser.IBrowser;
 import com.tatf.core.verification.IVerify;
-import com.tatf.swaglabs.home.data.HomeData;
-import com.tatf.swaglabs.home.task.HomeTask;
-import com.tatf.swaglabs.login.data.LoginData;
-import com.tatf.swaglabs.login.pom.LoginPO;
+import com.tatf.swaglabs.modules.home.data.HomeData;
+import com.tatf.swaglabs.modules.home.task.HomeTask;
+import com.tatf.swaglabs.modules.login.data.LoginData;
+import com.tatf.swaglabs.modules.login.pom.LoginPO;
 
 public class LoginTask {
     private final IBrowser browser;

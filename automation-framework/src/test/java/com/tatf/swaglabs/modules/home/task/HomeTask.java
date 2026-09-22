@@ -1,8 +1,8 @@
-package com.tatf.swaglabs.home.task;
+package com.tatf.swaglabs.modules.home.task;
 
 import com.tatf.core.browser.IBrowser;
 import com.tatf.core.verification.IVerify;
-import com.tatf.swaglabs.home.pom.HomePO;
+import com.tatf.swaglabs.modules.home.pom.HomePO;
 
 public class HomeTask {
     private final IBrowser browser;

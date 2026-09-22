@@ -1,4 +1,4 @@
-package com.tatf.swaglabs.login.pom;
+package com.tatf.swaglabs.modules.login.pom;
 
 import com.tatf.core.browser.IBrowser;
 

@@ -1,4 +1,4 @@
-package com.tatf.swaglabs.base;
+package com.tatf.swaglabs.modules.base;
 
 import com.tatf.core.browser.BrowserFactory;
 import com.tatf.core.browser.IBrowser;

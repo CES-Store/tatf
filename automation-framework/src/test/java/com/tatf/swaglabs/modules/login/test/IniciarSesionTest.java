@@ -1,8 +1,8 @@
-package com.tatf.swaglabs.login.test;
+package com.tatf.swaglabs.modules.login.test;
 
-import com.tatf.swaglabs.base.BaseTest;
-import com.tatf.swaglabs.login.data.LoginData;
-import com.tatf.swaglabs.login.task.LoginTask;
+import com.tatf.swaglabs.modules.base.BaseTest;
+import com.tatf.swaglabs.modules.login.data.LoginData;
+import com.tatf.swaglabs.modules.login.task.LoginTask;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

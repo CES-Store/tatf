@@ -1,4 +1,4 @@
-package com.tatf.swaglabs.home.pom;
+package com.tatf.swaglabs.modules.home.pom;
 
 import com.tatf.core.browser.IBrowser;
 
