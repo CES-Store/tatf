@@ -5,6 +5,7 @@ import com.tatf.swaglabs.modules.login.data.LoginData;
 import com.tatf.swaglabs.modules.login.task.LoginTask;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 public class LoginTest extends BaseTest {
@@ -18,6 +19,7 @@ public class LoginTest extends BaseTest {
 
     @Test
     @DisplayName("Inicia sesión con usuario y contraseña correcto")
+    @Tag("humo")
     public void iniciarSesionCorrectoTest() {
         this.iniciarSesion.enterToSystem(url);
         this.iniciarSesion.verifyTitle(LoginData.TITLE);
